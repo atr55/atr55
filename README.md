@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrei 👋
 
-    I'm from Romania and I'm a frontend developer and UI/UX Designer. Focused on React JS but not limited to that, always eager to learn and improve my skills.
+    I'm from Romania and I'm a Frontend Developer and UI/UX Designer. Focused on React JS but not limited to that, always eager to learn and improve my skills.
 
 <img align="left" alt="background image" src="https://github.com/atr55/atr55/assets/129383573/e085d6f4-878e-4c1d-8476-f6e406267305" />
 
