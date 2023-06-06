@@ -15,9 +15,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="React js" width="30px" src="https://github.com/atr55/atr55/assets/129383573/4593127f-44f6-4442-92a1-8e637a40d741" />
-<img align="left" alt="HTML" width="30px" src="https://github.com/atr55/atr55/assets/129383573/f8630333-b3be-474e-b737-349841c22326" />
-<img align="left" alt="CSS" width="30px" src="https://github.com/atr55/atr55/assets/129383573/a883d599-c265-4afb-8446-3a461bd49ef6" />
-<img align="left" alt="JavaScript" width="30px" src="https://github.com/atr55/atr55/assets/129383573/a478cf56-d3e3-4377-86d3-4164365b9daf" />
-<img align="left" alt="Adobe XD" width="30px" src="https://github.com/atr55/atr55/assets/129383573/f60c5c75-9d00-476e-8f1d-d465a586b965" />
-<img align="left" alt="Adobe Illustrator" width="30px" src="https://github.com/atr55/atr55/assets/129383573/1761829a-fe1a-4bef-9e28-44f110293a86" />
+<img align="left" alt="React js" width="35px" src="https://github.com/atr55/atr55/assets/129383573/4593127f-44f6-4442-92a1-8e637a40d741" />
+<img align="left" alt="HTML" width="35px" src="https://github.com/atr55/atr55/assets/129383573/f8630333-b3be-474e-b737-349841c22326" />
+<img align="left" alt="CSS" width="35px" src="https://github.com/atr55/atr55/assets/129383573/a883d599-c265-4afb-8446-3a461bd49ef6" />
+<img align="left" alt="JavaScript" width="35px" src="https://github.com/atr55/atr55/assets/129383573/a478cf56-d3e3-4377-86d3-4164365b9daf" />
+<img align="left" alt="Adobe XD" width="35px" src="https://github.com/atr55/atr55/assets/129383573/f60c5c75-9d00-476e-8f1d-d465a586b965" />
+<img align="left" alt="Adobe Illustrator" width="35px" src="https://github.com/atr55/atr55/assets/129383573/3431773b-e6c2-472b-a97c-e9bef57d22d3" />
