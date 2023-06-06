@@ -15,4 +15,4 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/atr55/atr55/assets/129383573/f8630333-b3be-474e-b737-349841c22326" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/atr55/atr55/assets/129383573/f8630333-b3be-474e-b737-349841c22326" />
