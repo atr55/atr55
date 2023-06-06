@@ -2,6 +2,8 @@
 
     I'm from Romania and I'm a frontend developer and UI/UX Designer. Focused on React JS but not limited to that, always eager to learn and improve my skills.
 
+<img align="left" alt="background image" src="https://github.com/atr55/atr55/assets/129383573/e085d6f4-878e-4c1d-8476-f6e406267305" />
+
 - 🎨 One year experience in Design.
 - 🧑🏽‍💻 I am interested in the development of dynamic and attractive web interfaces!
 - 🌱 I’m currently learning everything 😂.
@@ -22,3 +24,4 @@
 <img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/atr55/atr55/assets/129383573/4d897f28-ba01-4626-ae26-6bf64e22424c" />
 <img align="left" alt="Adobe XD" width="35px" src="https://github.com/atr55/atr55/assets/129383573/f60c5c75-9d00-476e-8f1d-d465a586b965" />
 <img align="left" alt="Adobe Illustrator" width="35px" src="https://github.com/atr55/atr55/assets/129383573/88afbd9a-afe6-4958-86fd-a060d9ad8ff8" />
+
