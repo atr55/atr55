@@ -21,4 +21,4 @@
 <img align="left" alt="JavaScript" width="35px" src="https://github.com/atr55/atr55/assets/129383573/a478cf56-d3e3-4377-86d3-4164365b9daf" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/atr55/atr55/assets/129383573/4d897f28-ba01-4626-ae26-6bf64e22424c" />
 <img align="left" alt="Adobe XD" width="35px" src="https://github.com/atr55/atr55/assets/129383573/f60c5c75-9d00-476e-8f1d-d465a586b965" />
-<img align="left" alt="Adobe Illustrator" width="35px" src="https://github.com/atr55/atr55/assets/129383573/3431773b-e6c2-472b-a97c-e9bef57d22d3" />
+<img align="left" alt="Adobe Illustrator" width="35px" src="https://github.com/atr55/atr55/assets/129383573/88afbd9a-afe6-4958-86fd-a060d9ad8ff8" />
